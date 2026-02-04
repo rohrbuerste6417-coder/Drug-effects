@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: servertweaks
+MixinConfigs: mixins.drugeffects.json
+Implementation-Version: 1.0.0
+Specification-Vendor: Antigravity
+Specification-Title: drugeffects
+Implementation-Timestamp: 2026-02-03T00:52:30+0100
+Specification-Version: 1
+Implementation-Vendor: Antigravity
+

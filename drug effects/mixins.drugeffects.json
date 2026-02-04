@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.antigravity.drugeffects.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.drugeffects.refmap.json",
+  "mixins": [
+    "MixinMouseHandler",
+    "MixinGameRenderer",
+    "MixinPostChainAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
